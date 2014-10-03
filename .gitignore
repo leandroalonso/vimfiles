@@ -1,5 +1,6 @@
 tmp/
-bundle/
+!bundle/
+bundle/*
 !bundle/Vundle.vim
 *.swp
 *.swo
